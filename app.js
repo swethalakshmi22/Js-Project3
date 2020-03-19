@@ -11,7 +11,11 @@
    {quote :"It will be the toughest thing you’ll ever do, but your heart is never wrong.",
    author: "Mark Twain"},
    {quote : "Live your beliefs and you can turn the world around.",
-   author: "Samuel Beckett"}
+   author: "Samuel Beckett"},
+   {quote : "The Way Get Started Is To Quit Talking And Begin Doing.",
+   author: "Walt Disney"},
+   {quote : "Don’t Let Yesterday Take Up Too Much Of Today.",
+   author: "Will Rogers"},
 ];
 
 document.querySelector("button").addEventListener("click", function() {
